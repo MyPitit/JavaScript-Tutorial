@@ -27,4 +27,4 @@ document.getElementById("test").innerHTML = "Hello Petal!";
 |var | Declares a variable |
 
 ### Next...
-Go [back](https://github.com/MyPitit/JavaScript-Tutorial) or to the [next]() lesson.
+Go [back](https://github.com/MyPitit/JavaScript-Tutorial) or to the [next](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/variables.md) lesson.
