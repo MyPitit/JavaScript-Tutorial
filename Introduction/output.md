@@ -21,6 +21,7 @@ Ways to display data in JavaScript:
 </html>
 
 ```
+----
 
 + Writing into the HTML output using `document.write()`
 
@@ -59,6 +60,8 @@ Another example using an `onclick event`:
 </html>
 
 ```
+----
+
 
 + Writing into an HTML element, using `innerHTML`
 
@@ -81,6 +84,7 @@ Another example using an `onclick event`:
 </html>
 
 ```
+---
 
 + Writing into the browser console, using `console.log()`
 
