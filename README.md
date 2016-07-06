@@ -40,10 +40,10 @@ Using `JavaScript` you can easily create objects and use special `OOP` design pa
 
 ## Learning outcomes
 
-+ [JavaScript Output](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/Introduction/output.md)
-+ [JavaScript Syntax](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/Introduction/syntax.md)
-+ [JavaScript Statements](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/Introduction/statements.md)
-+ [JavaScript Variables]()
++ [JavaScript Output](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/output.md)
++ [JavaScript Syntax](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/syntax.md)
++ [JavaScript Statements](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/statements.md)
++ [JavaScript Variables](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/variables.md)
 + [JavaScript Operators]()
 + [JavaScript Arithmetic]()
 + [JavaScript Assignment]()
