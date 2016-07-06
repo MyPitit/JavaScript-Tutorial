@@ -106,3 +106,6 @@ myname = "Petal";
 // myName and myname are two different variables
 
 ```
+
+### Next...
+Go [back](https://github.com/MyPitit/JavaScript-Tutorial) or to the [next](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/statements.md) lesson.

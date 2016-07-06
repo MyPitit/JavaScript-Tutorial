@@ -104,3 +104,6 @@ Another example using an `onclick event`:
 </html>
 
 ```
+
+### Next...
+Go [back](https://github.com/MyPitit/JavaScript-Tutorial) or to the [next](https://github.com/MyPitit/JavaScript-Tutorial/blob/master/syntax.md) lesson.

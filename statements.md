@@ -25,3 +25,6 @@ document.getElementById("test").innerHTML = "Hello Petal!";
 |switch | Marks a block of statements to be executed, depending on different cases |
 |try ... catch | Implements error handling to a block of statements |
 |var | Declares a variable |
+
+### Next...
+Go [back](https://github.com/MyPitit/JavaScript-Tutorial) or to the [next]() lesson.
