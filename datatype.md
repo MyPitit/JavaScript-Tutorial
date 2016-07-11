@@ -31,6 +31,7 @@ null == undefined            // true
 |RegExp	    | Represents regular expression
 
 
+
 Examples:
 
 ```javascript
